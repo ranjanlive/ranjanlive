@@ -7,7 +7,7 @@
 Whatsapp me : 7479549608
 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i was a Content Cretor in Past My Channel [Yt Channel](https://www.youtube.com/@ranjantech07)
+- ⚡ Fun fact: i was a Content Creator in Past [Yt Channel](https://www.youtube.com/@ranjantech07)
 
 <!---
 rajeev210906/rajeev210906 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
