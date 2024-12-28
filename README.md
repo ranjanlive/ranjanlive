@@ -6,17 +6,17 @@ Visitor count<br>
 <img height=500 width=500 src="https://images.genius.com/e835c70a074e8bb00192047da3de2a0e.1000x1000x1.jpg"/>
 </p>
 
-![Technology Workd With](https://skillicons.dev/icons?i=prisma,graphql,docker,git,js,typescript,githubactions,react,nextjs,linux,discord,md,mongodb,mysql,bash,py,regex,rust,vim,neovim,flask,lua,tailwind,bootstrap,nginx,svelte,php,c,kubernetes,bun,aws,gcp,azure,bots,fastapi,github,gitlab,kali,arch,debian,md,nodejs,npm,raspberrypi,redis,vite,yarn)
+![Technology Workd With](https://skillicons.dev/icons?i=html,css,js,python,discord,c,cpp,figma,git,androidstudio,blender,github,flask,linux,ps,pr,vscode,windows,unity,mysql)
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Rajeev210906&show_icons=true&theme=transparent"/>
 </p>
-- 👋 Hi, I’m @rajeev210906
-- 👀 I’m interested in Software Devlopment,Web Devlopment,Animation
-- 🌱 I’m currently learning C++ With DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 👋 Hi, I’m @rajeev210906<br>
+- 👀 I’m interested in Software Devlopment,Web Devlopment,Animation<br>
+- 🌱 I’m currently learning C++ With DSA<br>
+- 💞️ I’m looking to collaborate on ...<br>
+- 📫 How to reach me <br><br>
 
-Whatsapp me : 7479549608
+Whatsapp me : 7479549608<br><br>
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i was a Content Creator in Past [Yt Channel](https://www.youtube.com/@ranjantech07)
