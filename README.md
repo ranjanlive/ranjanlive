@@ -17,7 +17,7 @@ Visitor count<br>
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me <br><br>
 
-Whatsapp me :<img src="https://png.pngtree.com/element_our/sm/20180626/sm_5b321c99945a2.jpg"/>[Whatsapp](https://wa.me/+917479549608?text=Hi,Ranjan_I_Connected_You_From_Your_Github_Profile...) <br><br>
+Whatsapp me :<img src="https://cdn-icons-png.freepik.com/256/733/733585.png?semt=ais_hybrid" width="20px"/>[Whatsapp](https://wa.me/+917479549608?text=Hi,Ranjan_I_Connected_You_From_Your_Github_Profile...) <br><br>
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i was a Content Creator in Past [Yt Channel](https://www.youtube.com/@ranjantech07)
