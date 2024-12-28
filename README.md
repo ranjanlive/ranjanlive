@@ -16,7 +16,7 @@ Visitor count<br>
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me <br><br>
 
-Whatsapp me :[Yt Channel](https://wa.me/+917479549608?) <br><br>
+Whatsapp me :[Whatsapp Me](https://wa.me/+917479549608?text=Hi,Ranjan_I_Connected_You_From_Your_Github_Profile...) <br><br>
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i was a Content Creator in Past [Yt Channel](https://www.youtube.com/@ranjantech07)
