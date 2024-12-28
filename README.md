@@ -16,7 +16,7 @@ Visitor count<br>
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me <br><br>
 
-Whatsapp me : https://wa.me/<+917479549608>?text=<"Hi I Contacting You From Your Github Profile | "> <br><br>
+Whatsapp me :<a href =" https://wa.me/<+917479549608>?text=<Hi I Contacting You From Your Github Profile |>">Whatsapp Me</a> <br><br>
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i was a Content Creator in Past [Yt Channel](https://www.youtube.com/@ranjantech07)
