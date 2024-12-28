@@ -11,12 +11,13 @@ Visitor count<br>
   <img src="https://github-readme-stats.vercel.app/api?username=Rajeev210906&show_icons=true&theme=transparent"/>
 </p>
 - 👋 Hi, I’m @rajeev210906<br>
+
 - 👀 I’m interested in Software Devlopment,Web Devlopment,Animation<br>
 - 🌱 I’m currently learning C++ With DSA<br>
 - 💞️ I’m looking to collaborate on ...<br>
 - 📫 How to reach me <br><br>
 
-Whatsapp me :[Whatsapp Me](https://wa.me/+917479549608?text=Hi,Ranjan_I_Connected_You_From_Your_Github_Profile...) <br><br>
+Whatsapp me :<img src="https://png.pngtree.com/element_our/sm/20180626/sm_5b321c99945a2.jpg"/>[Whatsapp](https://wa.me/+917479549608?text=Hi,Ranjan_I_Connected_You_From_Your_Github_Profile...) <br><br>
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i was a Content Creator in Past [Yt Channel](https://www.youtube.com/@ranjantech07)
