@@ -8,7 +8,7 @@ Visitor count<br>
 
 ![Technology Workd With](https://skillicons.dev/icons?i=html,css,js,python,discord,c,cpp,figma,git,androidstudio,blender,github,flask,linux,ps,pr,vscode,windows,unity,mysql)
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajeev210906&show_icons=true&theme=transparent"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ranjanlive&show_icons=true&theme=transparent"/>
 </p>
 - 👋 Hi, I’m @rajeev210906<br>
 
